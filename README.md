@@ -1,11 +1,9 @@
-<h1 align="center">Hi 👋, I'm Caio Carvalho!</h1>
-<h3 align="center">Born and raised in Brazil, I'm graduated into Computer Science at Universidade Federal da Paraíba and also I'm working as a Front-end Web Developer using the stack React, Typescript, React Redux and Chakra UI. As an extrovert person, i try to bring hapinnes wherever im or doing, especialy coding and in meetings, cause we need some joy to make things better, even in hard times, it helps a lot(I think). So, feel free to reach me out and chat, i'll certainly answer and if you are a Vasco da Gama fan or plays CSGO, YOU'RE a true heroe my brother!</h3>
+<h1 align="center">Hi 👋, I'm Caio Nascimento!</h1>
+<h2 align="center">Born and raised in Brazil, I'm graduated into Computer Science at Universidade Federal da Paraíba and also I'm working as a Front-end Web Developer using the stack React, Typescript, React Redux and Chakra UI. As an extrovert person, i try to bring happiness wherever i am or doing, especialy coding and in my communication, cause we need some joy to make things better. So, feel free to reach me out and chat, i'll certainly answer and if you are a Vasco da Gama fan or plays CSGO, YOU'RE a true heroe my brother!</h2>
 
 - 🔭 I’m currently working on [LAVID - Projeto Paraíba Humana e Inteligente: Incubadora PB](https://incubadora.horizontesdeinovacao.pb.gov.br/)
 
 - 🌱 I’m currently learning **Vue.js**
-
-- 👯 I’m looking to collaborate on [Improving my TCC](https://github.com/Caionnc/tcc)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Caionnc](https://github.com/Caionnc)
 
