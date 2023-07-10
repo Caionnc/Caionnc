@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Caio Nascimento!</h1>
-<h2 align="center">Born and raised in Brazil, I'm graduated into Computer Science at Universidade Federal da Paraíba and also I'm working as a Front-end Web Developer using the stack React, Typescript, React Redux and Chakra UI. As an extrovert person, i try to bring happiness wherever i am or doing, especialy coding and in my communication, cause we need some joy to make things better. So, feel free to reach me out and chat, i'll certainly answer and if you are a Vasco da Gama fan or plays CSGO, YOU'RE a true heroe my brother!</h2>
+<h2 align="center">Born and raised in Brazil, I graduated in Computer Science from the Universidade Federal da Paraíba. Currently, I work as a Front-end Web Developer using the React stack, along with TypeScript, React Redux, and Chakra UI. Being an extroverted person, I always strive to bring joy wherever I am or whatever I do, especially when it comes to coding and communication. We all need some happiness to make things better. So, feel free to reach out and chat. I will certainly respond. And if you happen to be a Vasco da Gama fan or play CSGO, you're a true hero, my brother!</h2>
 
 - 🔭 I’m currently working on [LAVID - Projeto Paraíba Humana e Inteligente: Incubadora PB](https://incubadora.horizontesdeinovacao.pb.gov.br/)
 
-- 🌱 I’m currently learning **Vue.js**
+- 🌱 I’m currently learning **React** and **Vue.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Caionnc](https://github.com/Caionnc)
 
-- 💬 Ask me about **React, Typescript and CSGO xD**
+- 💬 Ask me about **React, Typescript, Vasco da Gama and CSGO xD**
 
 - 📫 How to reach me **caionnc@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/caionnc/](https://www.linkedin.com/in/caionnc/)
 
-- ⚡ Fun fact **I'm a Vasco da Gama fan.**
+- ⚡ Fun fact **I'm a Vasco da Gama fan and Legendary Eagle in CSGO(looking forward to CS2).**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
