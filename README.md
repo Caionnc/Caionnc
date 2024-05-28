@@ -1,14 +1,8 @@
 <h1 align="center">Hi 👋, I'm Caio Nascimento!</h1>
-<p align="center">Born and raised in Brazil, I graduated in Computer Science from the Universidade Federal da Paraíba. Currently, I work as a Software Engineer: Front-end Web Developer using the React stack, along with TypeScript, React Redux, Chakra UI and adventuring now in Vue.js. Being an extroverted person, I always strive to bring joy wherever I am or whatever I do, especially when it comes to coding and communication. We all need some happiness to make things better. So, feel free to reach out and chat. I will certainly respond.</p>
+<p align="center">Born and raised in Brazil, I graduated in Computer Science from the Universidade Federal da Paraíba. Currently, I work as a Software Engineer: Frontend(web) using the React, along with TypeScript, React Redux, Chakra UI and adventuring now in Vue.js. Being an extroverted person, I always strive to bring joy wherever I am or whatever I do, especially when it comes to coding and communication. We all need some happiness to make things better. So, feel free to reach out and chat. I will certainly respond.</p>
 
 - 🔭 I’m currently working on [LAVID - Projeto Paraíba Humana e Inteligente: Incubadora PB](https://incubadora.horizontesdeinovacao.pb.gov.br/)
-
-- 🌱 I’m currently learning **React** and **Vue.js**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Caionnc](https://github.com/Caionnc)
-
-- 💬 Ask me about **React, Typescript, Vasco da Gama and CSGO xD**
-
+- 💬 Ask me about **React, Typescript and Vasco da Gama
 - 📫 How to reach me **caionnc@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/caionnc/](https://www.linkedin.com/in/caionnc/)
